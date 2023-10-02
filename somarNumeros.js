@@ -1,3 +1,5 @@
+//Peça ao usuário para inserir dois números e exiba a soma deles.
+
 let name = prompt("Digite seu nome: ");
 let n1 = Number(prompt("Digite um numero: "));
 let n2 = Number(prompt("Digite outro numero: "));
